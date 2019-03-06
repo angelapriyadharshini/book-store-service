@@ -1,0 +1,41 @@
+[ {
+  "id" : 1,
+  "title" : "The Scarlet Pimpernal",
+  "author" : "Emma Orczy",
+  "edition" : "1st"
+}, {
+  "id" : 2,
+  "title" : "Merchant of Venice",
+  "author" : "William Shakespeare",
+  "edition" : "2nd"
+}, {
+  "id" : 3,
+  "title" : "Julius Caesar",
+  "author" : "William Shakespeare",
+  "edition" : "2nd"
+}, {
+  "id" : 4,
+  "title" : "Macbeth",
+  "author" : "William Shakespeare",
+  "edition" : "5th"
+}, {
+  "id" : 5,
+  "title" : "The Tale of Two Cities",
+  "author" : "Charles Dickens",
+  "edition" : "7th"
+}, {
+  "id" : 6,
+  "title" : "I Wandered Lonely as a Cloud",
+  "author" : "William Wordsworth",
+  "edition" : "4th"
+}, {
+  "id" : 7,
+  "title" : "Harry Potter",
+  "author" : "J. K. Rowling",
+  "edition" : "2nd"
+}, {
+  "id" : 8,
+  "title" : "Hamlet",
+  "author" : "William Shakespeare",
+  "edition" : "5th"
+} ]
